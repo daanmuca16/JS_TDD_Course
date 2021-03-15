@@ -1,0 +1,20 @@
+{
+  "name": "js_tdd_course",
+  "version": "1.0.0",
+  "description": "testes com JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github/daanmuca16/JS_TDD_Course"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "estudos"
+  ],
+  "author": "DGF <danilogfigueiredo@gmail.com>",
+  "license": "MIT"
+}
